@@ -3,12 +3,6 @@
 
 Este es un juego creado en python por medio de pygame, la idea es ir encontrando las posibles parejas sin gastar la totalidad de vidas posibles.
 
-## EMPEZAR
-
-Copie el proyecto via git clone en cualquier diretorio para empezar a trabajar:
-```
-https://github.com/vashigo/parcialarem.git
-```
 
 ### Prerequisitos
 
